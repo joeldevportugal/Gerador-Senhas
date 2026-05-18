@@ -1,3 +1,6 @@
+Password and 12345678 and User Admin”
+“The base language is set to European Portuguese (pt-PT).”
+
 # 🔐 SafePass Pro - Enterprise Password Management Ecosystem
 
 [![.NET Framework](https://img.shields.io/badge/.NET-Framework%204.8%2B-blue.svg)](https://dotnet.microsoft.com/)
