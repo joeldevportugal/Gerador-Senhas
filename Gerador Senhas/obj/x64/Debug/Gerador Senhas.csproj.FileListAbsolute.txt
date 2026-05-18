@@ -1,0 +1,64 @@
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Gerador Senhas.exe.config
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Gerador Senhas.exe
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Gerador Senhas.pdb
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\x64\Debug\Gerador Senhas.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\x64\Debug\Gerador_Senhas.Gerador.resources
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\x64\Debug\Gerador_Senhas.Properties.Resources.resources
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\x64\Debug\Gerador Senhas.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\x64\Debug\Gerador Senhas.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\x64\Debug\Gerador Senhas.exe
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\x64\Debug\Gerador Senhas.pdb
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\x64\Debug\Gerador_Senhas.Painel.resources
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\x64\Debug\Gerador_Senhas.Acerca.resources
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\x64\Debug\Gerador_Senhas.Senhas.resources
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\BCrypt.Net-Next.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.Memory.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\BCrypt.Net-Next.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\BouncyCastle.Crypto.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.Memory.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\x64\Debug\Gerador .305956D3.Up2Date
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\x64\Debug\Gerador_Senhas.Testador_do_Password.resources
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\LdaNative.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\CpuMathNative.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.Bcl.Numerics.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.ML.Core.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.ML.Data.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.ML.DataView.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.ML.PCA.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.ML.Transforms.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.CodeDom.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.Numerics.Tensors.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.Threading.Channels.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.Bcl.Numerics.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.ML.Core.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.ML.Data.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.ML.DataView.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.ML.PCA.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Microsoft.ML.Transforms.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.CodeDom.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.Numerics.Tensors.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.Threading.Channels.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\x64\Debug\Gerador_Senhas.Carteira_de_Senhas.resources
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\x64\Debug\Gerador_Senhas.Carteira_de_Passwordes.resources
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\x64\Debug\Gerador_Senhas.Porta_Passwordes.resources

@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="../../Instalador/Instlador Projecto Plano de Negocio Teste/Instlador Projecto Plano de Negocio Teste.vdproj" Type="Installer" />
+  <Project Path="Gerador Senhas/Gerador Senhas.csproj" Id="667f6277-e198-4408-9985-8ce29eeea966">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>

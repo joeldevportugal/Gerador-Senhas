@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\Debug\Gerador Senhas.exe.config
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\Debug\Gerador Senhas.exe
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\bin\Debug\Gerador Senhas.pdb
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\Debug\Gerador Senhas.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\Debug\Gerador_Senhas.Gerador.resources
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\Debug\Gerador_Senhas.Properties.Resources.resources
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\Debug\Gerador Senhas.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\Debug\Gerador Senhas.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\Debug\Gerador Senhas.exe
+C:\Users\pc\Desktop\Projecto Plano de Negocio\Gerador de Senhas\Gerador Senhas\Gerador Senhas\obj\Debug\Gerador Senhas.pdb
